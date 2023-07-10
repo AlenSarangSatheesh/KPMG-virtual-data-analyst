@@ -1,0 +1,28 @@
+Here are the errors in DataBase
+
+CustomerDemographics table:
+
+1)There is 1 customer born in 1843.
+2)Gender coloumn have 'U' , females represented as 'F' , 'FEMAL' ,Male represented as 'M'.
+3)DOB in string format.
+4)job title has blanks.
+5)job industry has 'n/a' values.
+6)default coloumn has unknown/correpted values.
+7)tenure has blank coloumns.
+
+Transanctions table:
+
+1)online order has blank values.
+2)brand has blank values.
+3)product line blank values.
+4)product class blank values.
+5)product class blank values.
+6)standard cost blank values.
+7)product first sold date has blank values.
+
+new customer list :
+
+1)'U' gender identified.
+2)job title has blanks.
+3)job industry has 'n/a'.
+4) 5 unnamed coloumns.
